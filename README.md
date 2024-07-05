@@ -1,4 +1,4 @@
-# Data-Analytics-Projects
+# AtliQ Grands Hospitality Project 
 ## Project Introduction
 
 AtliQ Grands, a prominent name in the hospitality industry, has been operating multiple five-star hotels across India for the past 20 years. Despite their longstanding presence and reputation, AtliQ Grands has faced significant challenges recently, primarily due to strategic moves by competitors and ineffective decision-making within the management. These issues have led to a noticeable decline in their market share and revenue in the luxury/business hotel sector.
